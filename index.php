@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+<!--<html>
     <body>
         <h1>Hola chavalada.</h1>
         <img src="wp-content/themes/TemaPropio/imagen.gif"></img>
@@ -14,4 +13,5 @@
         ?>
         <h1 href="https://ide.c9.io/gallegomanuel88/wordpressmanu/jojo">JOJOJOJO</h1>
     </body>
-</html>
+</html>-->
+<?php include("header.php"); ?>
