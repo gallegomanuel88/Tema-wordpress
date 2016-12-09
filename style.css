@@ -9,4 +9,6 @@ Theme Name:    TemaPropio
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  
  */
- body{text-align:center}
+ #error404{
+  text-align:center
+  }
