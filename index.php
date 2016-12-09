@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
     <body>
-        <h1>Hola Mugremita, gano Trump.</h1>
-        <img src="wp-content/themes/temaCreadoCero/imagen.gif"></img>
+        <h1>Hola chavalada.</h1>
+        <img src="wp-content/themes/TemaPropio/imagen.gif"></img>
         <?php
         if (have_posts ()) {
             while (have_posts ()){
