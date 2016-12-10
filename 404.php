@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="wp-content/themes/TemaPropio/style.css" type="text/css" />
+        <link rel="stylesheet" href="<?php echo get_stylesheet_uri();?>" type="text/css" />
     </head>
     <body>
         <div id="error404">

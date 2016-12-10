@@ -3,7 +3,7 @@
     <body>
         <head>
 		    <title>Menú</title>
-		    <link rel="stylesheet" type="text/css" href="wp-content/themes/TemaPropio/style.css">
+		    <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_uri();?>">
         </head>
 	    <div id="header">
 		    <div id="menu">
@@ -51,7 +51,6 @@
 						    <li><a href="">Tercera subetiqueta</a></li>
                         </ul>
 				    </li>
-				    <p style="clear:both"></p>
 			    </ul>
 			</div> 
         </div>
